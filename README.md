@@ -1,6 +1,15 @@
 # info
-It is ID and Info BoT For Telegram From https://t.me/Harshith_Mutyala 
-## Deploy To Heroku 
+It is ID and Info BoT For Telegram U can use your id let's click  the /id your info let's click /info and u want to any help let's click  /help 😊😀 This BoT Created By [Harshith Mutyala](https://t.me/Harshith_Mutyala)
+
+## Commands
+ ```MH
+start - let BoT Is alive or Not
+help - I can help how you can understand BoT
+info - about yourself 
+id - your id mentioned here
+```
+
+# Deploy To Heroku 
 [![20220411_065237](https://user-images.githubusercontent.com/91818980/162686070-c0064258-1f97-4ddd-b3f4-87f7524cdaf0.png)](https://heroku.com/deploy)
 
 ## Deploy
