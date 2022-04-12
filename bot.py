@@ -85,5 +85,5 @@ async def id(bot, update):
     )
 
 
-print("Bot Started!!! Now Join on @Vkprojects")
+print("Bot Started!!! Now Join on @Harshith_Mutyala")
 Bot.run()
